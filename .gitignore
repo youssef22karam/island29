@@ -1,0 +1,19 @@
+# Generated wholes: rebuilt from their .parts by tools/reassemble.mjs
+src/engine/boat-runtime.js
+src/engine/geology.js
+src/engine/hydrology.js
+src/engine/island/part09.js
+src/engine/island/part12.js
+src/engine/island/part14.js
+src/engine/island/part16.js
+src/engine/island/part20.js
+src/engine/kelp/giant.js
+src/engine/kelp/life.js
+src/engine/shore-waves.js
+src/engine/terrain/part08.js
+
+node_modules
+dist
+.debug
+artifacts
+.DS_Store
